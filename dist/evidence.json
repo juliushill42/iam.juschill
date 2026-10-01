@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0.0",
+  "person": "Julius Cameron Hill",
+  "principle": "Evidence first. Context always. No single record defines the whole person.",
+  "items": [
+    {
+      "id": "tn-appeal-2008",
+      "class": "documented",
+      "title": "Tennessee Court of Criminal Appeals opinion",
+      "url": "https://www.tncourts.gov/sites/default/files/OPINIONS/tcca/PDF/082/HillJuliusCameronOPN.pdf",
+      "supports": [
+        "2004 arrest context",
+        "2006 conviction",
+        "0.6 g figure",
+        "12-year sentence",
+        "appeal affirmed"
+      ],
+      "does_not_establish": [
+        "current character",
+        "current technical capability",
+        "an observed drug sale"
+      ]
+    },
+    {
+      "id": "rap-2015-rebuild",
+      "class": "documented",
+      "title": "Brighter look enhances R.A.P. Center",
+      "url": "https://www.t-g.com/stories/brighter-look-enhances-rap-center,22053",
+      "supports": [
+        "2015 R.A.P. Center work",
+        "Julius Hill community involvement",
+        "Voice and Vision continuity"
+      ]
+    },
+    {
+      "id": "rap-2015-help",
+      "class": "documented",
+      "title": "R.A.P. offers helping hand",
+      "url": "https://www.t-g.com/stories/rap-offers-helping-hand,23643",
+      "supports": [
+        "Rural Arts Program",
+        "education",
+        "mentoring",
+        "entrepreneurship",
+        "health"
+      ]
+    },
+    {
+      "id": "voice-vision-2015",
+      "class": "documented",
+      "title": "Voice and Vision: Bringing hope to neighborhoods",
+      "url": "https://www.t-g.com/stories/voice-and-vision-bringing-hope-to-neighborhoods,28335",
+      "supports": [
+        "Voice and Vision predates current AI/software work"
+      ]
+    },
+    {
+      "id": "summer-slam-2015",
+      "class": "documented",
+      "title": "Summer Slam: scoring points for a better life",
+      "url": "https://www.t-g.com/stories/summer-slam-scoring-points-for-a-better-life,21980",
+      "supports": [
+        "youth/community programming"
+      ]
+    },
+    {
+      "id": "github",
+      "class": "technical_evidence",
+      "title": "GitHub account",
+      "url": "https://github.com/juliushill42",
+      "supports": [
+        "large repository footprint",
+        "public source evidence"
+      ],
+      "does_not_establish": [
+        "that every repository is production-ready"
+      ]
+    },
+    {
+      "id": "titanu",
+      "class": "technical_evidence",
+      "title": "TitanU public surface",
+      "url": "https://titanuai.com",
+      "supports": [
+        "current technical identity",
+        "public deployed surface"
+      ]
+    },
+    {
+      "id": "moving-clarity",
+      "class": "technical_evidence",
+      "title": "Moving With Clarity",
+      "url": "https://movingwithclarity.com",
+      "supports": [
+        "public build/evidence catalog",
+        "full-name identity linkage"
+      ]
+    }
+  ]
+}

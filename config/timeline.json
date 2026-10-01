@@ -1,0 +1,68 @@
+[
+  {
+    "period": "2004-2008",
+    "type": "documented",
+    "title": "Tennessee criminal case",
+    "text": "A December 2004 arrest led to a July 2006 conviction for possession of 0.5 gram or more of cocaine with intent to sell/deliver and misdemeanor controlled-substance counts. The published appellate opinion describes 0.6 gram and does not describe officers witnessing an actual sale or delivery. A 12-year Range I sentence was affirmed in 2008.",
+    "sources": [
+      "https://www.tncourts.gov/sites/default/files/OPINIONS/tcca/PDF/082/HillJuliusCameronOPN.pdf"
+    ]
+  },
+  {
+    "period": "2004-2006",
+    "type": "firsthand_account",
+    "title": "Jail contraband case and sentencing sequence",
+    "text": "Hill says that while jailed awaiting the original case, he was caught with marijuana, pleaded guilty to a jail contraband case believing he could receive boot camp, received four years, and later went to trial on the original cocaine case in July 2006. He describes the combined sentence exposure as 16 years.",
+    "sources": []
+  },
+  {
+    "period": "later incarceration",
+    "type": "firsthand_account",
+    "title": "Restraint incidents",
+    "text": "Hill says later prison assault charges arose during restraint-chair incidents in which he pulled away from officers and resisted being strapped down; he says he did not initiate attacks. This account is kept separate from court-documented facts.",
+    "sources": []
+  },
+  {
+    "period": "2015",
+    "type": "documented",
+    "title": "Rural Arts Program and The Voice and Vision",
+    "text": "Shelbyville Times-Gazette coverage identifies Julius Hill as a co-founder connected with the R.A.P. (Rural Arts Program) Center and The Voice and Vision, documenting youth/community programming, facility rebuilding, mentoring, entrepreneurship, education, health and arts work.",
+    "sources": [
+      "https://www.t-g.com/stories/brighter-look-enhances-rap-center,22053",
+      "https://www.t-g.com/stories/summer-slam-scoring-points-for-a-better-life,21980",
+      "https://www.t-g.com/stories/rap-offers-helping-hand,23643",
+      "https://www.t-g.com/stories/voice-and-vision-bringing-hope-to-neighborhoods,28335"
+    ]
+  },
+  {
+    "period": "2015",
+    "type": "firsthand_account",
+    "title": "Work, school and self-funded youth work",
+    "text": "Hill says he was on parole, living with his mother in Nashville, working long days, attending school three evenings a week, driving to Shelbyville on other evenings, rebuilding the R.A.P. Center, feeding and transporting youth, mentoring, seeking donations and using his paycheck to help cover center expenses.",
+    "sources": [
+      "https://www.t-g.com/stories/brighter-look-enhances-rap-center,22053",
+      "https://www.t-g.com/stories/rap-offers-helping-hand,23643"
+    ]
+  },
+  {
+    "period": "2025-2026",
+    "type": "technical_evidence",
+    "title": "Titan Universal AI and product ecosystem",
+    "text": "Hill built a large GitHub and deployed-web footprint spanning TitanU, Moving With Clarity, GetUrClarity, JujuLabz, UCanJusCHill, WeCanJusCHill, Voice & Vision and infrastructure modules for routing, resource governance, consent routing, context caching, consensus, sandboxing and multi-agent conflict resolution.",
+    "sources": [
+      "https://github.com/juliushill42",
+      "https://titanuai.com",
+      "https://titanuniversalai.com",
+      "https://movingwithclarity.com",
+      "https://ucanjuschill.com",
+      "https://wecanjuschill.net"
+    ]
+  },
+  {
+    "period": "2026",
+    "type": "firsthand_account",
+    "title": "Building while homeless",
+    "text": "Hill says he is currently homeless, broke and building from his car while continuing to ship software. This is a first-person account and should not be converted into a claim of independent verification.",
+    "sources": []
+  }
+]

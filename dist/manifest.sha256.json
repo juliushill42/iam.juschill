@@ -1,0 +1,15 @@
+{
+  ".well-known/julius-cameron-hill.json": "3c3b6dee2450a62a1c135fab3ecab27e03a9795006b0dcac11b767ae4e6a4aa9",
+  "assets/site.css": "3c2acc14966e9bea53607085c66a92376740b116be575ba37a4b6ebd34d2b228",
+  "assets/site.js": "ccebebb9d4aac0308e45ea802cfe8572b1c1e6f1a7a7c63e55920375c766e68b",
+  "domains.json": "0f3ffecf91567a787772ca3165858c43cac0b931895dffd8032111a1f5ced581",
+  "evidence.json": "1c6a5195e839b75f42b098683d821a5c0cea0eb31ea1ffc5d3113d1780f86973",
+  "identity.json": "3c3b6dee2450a62a1c135fab3ecab27e03a9795006b0dcac11b767ae4e6a4aa9",
+  "identity.jsonld": "4c89df45785c1f738cd1d178c6e5f3c067c89648e0730e88dddc87791072c4b9",
+  "index.html": "16f3fa5b3ac01cdf108bdc24ea6846259fa903c1a5074fc44d62fcd4c0cfdb73",
+  "llms-full.txt": "ff33bdbe96d0301046bb6f0165d9ee0ac2d01a2ed3ff7b2118572a7b94da4390",
+  "llms.txt": "e2bece765845773d36717d70b9ec36ed1cefba9c15ea6bd583ae752676c2e5f1",
+  "robots.txt": "e9e6485e240daf10db0cdab93c82df792064fbb892debd75b09d1bb818d11dd9",
+  "sitemap.xml": "927119b877ce2d6d33647758bbce72d99a5e01810cb684d4638633b35bd5b991",
+  "timeline.json": "206559242ea38a3cb4b53d022081fcf41f3246f584f6127103112b977c187189"
+}

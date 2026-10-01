@@ -1,0 +1,1 @@
+(()=>{const h=location.hostname||"local";const e=document.getElementById("host");if(e)e.textContent=h;if(h.startsWith("iam."))document.title=`Julius Cameron Hill — I AM · ${h.slice(4)}`;})();

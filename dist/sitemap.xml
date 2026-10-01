@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://iam.movingwithclarity.com/</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/identity.json</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/identity.jsonld</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/timeline.json</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/evidence.json</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/domains.json</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/llms.txt</loc></url>
+  <url><loc>https://iam.movingwithclarity.com/llms-full.txt</loc></url>
+</urlset>
